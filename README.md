@@ -13,10 +13,10 @@ Por último se recorrerán los elementos de cada conjunto y se mostrarán por pa
 ### Elementos de los conjuntos
 Los elementos serán de tipo *String*. Para ambos conjuntos los elementos a añadir serán los mismos:
 * ELEMENT KPRBC
-* ELEMENT YPBTM
+* ELEMENT KPRBC
 * ELEMENT AADXU
 * ELEMENT RXCGJ
-* ELEMENT WYMVD
+* ELEMENT RXCGJ
 * ELEMENT WFGEJ
 * ELEMENT TYGBS
 * ELEMENT MAPTK
