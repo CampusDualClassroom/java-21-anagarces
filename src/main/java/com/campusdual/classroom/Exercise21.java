@@ -75,13 +75,15 @@ public class Exercise21 {
         //mostramos por pantalla los conjuntos y los identificamos
         System.out.println("Elementos del conjunto HashSet:");
         printSet(setA);
+        System.out.println("\n");
         System.out.println("Elementos del conjunto TreeSet: ");
         printSet(setB);
 
+        System.out.println("\n");
         //agregamos nuevos elementos a cada conjunto
         addElementToSet(setA, "ELEMENT AAA");
         printSet(setA); //mostramos el conjunto actualizado
-
+        System.out.println("\n");
         addElementToSet(setB, "ELEMENT AAA");
         printSet(setB);
     }
